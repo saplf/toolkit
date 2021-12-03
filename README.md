@@ -13,3 +13,5 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 
 - [pdf.js](https://mozilla.github.io/pdf.js/) - toolkit for parse PDF
+
+- [Texture Resource](https://www.transparenttextures.com/) - transparent web texture resources

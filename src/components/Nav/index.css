@@ -1,0 +1,8 @@
+@tailwind components;
+
+@layer components {
+  .nav {
+    @apply inline-block p-10 m-20 rounded shadow;
+    @apply backdrop-filter backdrop-blur-sm bg-gray-50 bg-opacity-40;
+  }
+}

@@ -1,0 +1,1 @@
+import{r as e}from"./vendor.870b9e48.js";import{j as r}from"./index.84ec23c1.js";function o(){return r("div",{className:"cursor-text text-ching-anyuzi",children:"Home 2 Page"})}var s=e.exports.memo(o);export{s as default};
